@@ -72,3 +72,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/VDBPack_01/VDB_Assets/Explosion_01_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_02_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_03_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_Bursting_Side_01_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_Bursting_Up_01_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_Medium_01_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_Medium_02_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_Small_01_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_Small_01_LOD_5.uasset
+Content/VDBPack_01/VDB_Assets/Explosion_Small_03_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Trails_01_LOD_2.uasset
+Content/VDBPack_01/VDB_Assets/Trails_02_LOD_2.uasset
